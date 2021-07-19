@@ -5,9 +5,9 @@ to run the code. The man who created this is a Legend. I used gcc to compile the
 
 But actually [Fedora](https://bellard.org/jslinux/vm.html?cpu=riscv64&url=fedora33-riscv.cfg&mem=256) might be better. The other one is faster but fedora's got vim and I think a package manager that's usable, maybe.
 
-Now, there's another project called [rars](https://github.com/TheThirdOne/rars) that's written in Java so one should be able to run it on almost any computer. This is a fuller IDE that's got auto-completion suggestions and a nice GUI. The kind person who decided this would be their summer project is my hero.
+Now, there's another project called [rars](https://github.com/TheThirdOne/rars) that's written in Java, so one should be able to run it on almost any computer. This is a fuller IDE that's got auto-completion suggestions and a nice GUI. The kind person who decided this would be their summer project is my hero.
 
-The code here is assembly for 32-bit RISC-V IMFDN (hopefully that's correct. Only sure about the 32-bit part). I chose to use `.s` as an extension because it reminds me of a professor whose lectures I enjoyed a lot. Back when we learned MIPS using MARS. I remember he was hoping a project like RARS would be made. He never introduced himself, but I'm pretty sure his name was Thomas riordan.
+The code here is assembly for 32-bit RISC-V IMFDN (hopefully that's correct. Only sure about the 32-bit part). I chose to use `.s` as an extension because it reminds me of a professor whose lectures I enjoyed a lot, back when I learned MIPS using MARS. I remember this professor was hoping a project like RARS would be made. He never introduced himself, but I'm pretty sure this professor's name was Thomas riordan, not 100% though.
 
 To run the commands that take arguments from the terminal:
 ```
