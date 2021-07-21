@@ -1,6 +1,9 @@
 .globl main
 .text
 main:
+    # This program takes two arguments. It shows the second 
+    # and then on a separate line shows the first
+
     # s0 -> argv
     
     li t0, 2 # t0 <- 2
